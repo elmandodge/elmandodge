@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=elmandodge&color=brightgreen" alt="watching_count" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmandodge&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmandodge&show_icons=true&theme=dark)
 
 <h3 align="center"> Frontend Web Developer | Graphic Designer </h3>
 
