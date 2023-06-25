@@ -13,7 +13,7 @@
 
 #### Coding Toolkit :
 
-<img src="https://img.shields.io/badge/Javascript-yellow"/> <img src="https://img.shields.io/badge/Typescript-blue"/> <img src="https://img.shields.io/badge/VB.Net-maroon"/> <img src="https://img.shields.io/badge/C♯-yellowgreen"/> <img src="https://img.shields.io/badge/.Net-9cf"/> <img src="https://img.shields.io/badge/CSS-orange"/> <img src="https://img.shields.io/badge/Scss-red"/> <img src="https://img.shields.io/badge/Sass-pink"/> <img src="https://img.shields.io/badge/Pug [Jade]-black"/> <img src="https://img.shields.io/badge/Vue.js-green"/> <img src="https://img.shields.io/badge/Flutter-cyan"/>
+<img src="https://img.shields.io/badge/Javascript-yellow"/> <img src="https://img.shields.io/badge/Typescript-blue"/> <img src="https://img.shields.io/badge/VB.Net-maroon"/> <img src="https://img.shields.io/badge/C♯-yellowgreen"/> <img src="https://img.shields.io/badge/.Net-9cf"/> <img src="https://img.shields.io/badge/CSS-orange"/> <img src="https://img.shields.io/badge/Scss-red"/> <img src="https://img.shields.io/badge/Sass-pink"/> <img src="https://img.shields.io/badge/Pug-black"/> <img src="https://img.shields.io/badge/Vue.js-green"/> <img src="https://img.shields.io/badge/Flutter-cyan"/>
 
 
 #### Design Toolkit :
